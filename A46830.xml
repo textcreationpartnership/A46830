@@ -1,0 +1,283 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Treason in Ireland for the blowing up of the Kings English forces with a hundred barrells of gun-powder; with the names of the chiefe agents; and the manner of the discovery, December the tenth. VVith a relation of the crueltie of the Irish rebels used against the English Protestants there, killing them, ravishing the women, cutting them to pieces, ... With two battels fought betwixt the Protestants and the Rebels: the Rebels having the worst in both. With a plot discovered at Athigh. Sent into England by Mr [sic] Hierome, Minister of Gods Word at Athigh in Ireland.</title>
+            <author>Jerome, Stephen, fl. 1604-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46830</idno>
+            <idno type="STC">Wing J681DA</idno>
+            <idno type="STC">ESTC R219999</idno>
+            <idno type="EEBO-CITATION">99831439</idno>
+            <idno type="PROQUEST">99831439</idno>
+            <idno type="VID">35902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46830)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2050:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Treason in Ireland for the blowing up of the Kings English forces with a hundred barrells of gun-powder; with the names of the chiefe agents; and the manner of the discovery, December the tenth. VVith a relation of the crueltie of the Irish rebels used against the English Protestants there, killing them, ravishing the women, cutting them to pieces, ... With two battels fought betwixt the Protestants and the Rebels: the Rebels having the worst in both. With a plot discovered at Athigh. Sent into England by Mr [sic] Hierome, Minister of Gods Word at Athigh in Ireland.</title>
+                  <author>Jerome, Stephen, fl. 1604-1650.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Salomou [sic] Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a woodcut illustration of the battle on A4v.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35902:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>TREASON <hi>IN</hi> IRELAND For the blowing up of the Kings
+  <hi>English</hi> Forces, With a hundred Barrells of <hi>Gun-powder;</hi> with
+  the Names of the chiefe Agents; and the manner of the Diſcovery, <hi>December
+  the tenth.</hi> VVith a Relation of the crueltie of the <hi>Iriſh</hi> Rebels
+  uſed againſt the <hi>Engliſh</hi> Prote<g ref="char:EOLhyphen"/>ſtants there, killing them,
+  raviſhing the Wo<g ref="char:EOLhyphen"/>men, cutting them to pieces, hanging them <hi>by the haire
+  of the head, ſcalding them, cutting off their heads, and firing their Townes
+  and Houſes.</hi> With two Battels fought betwixt the Proteſtants and the
+  Rebels: the Rebels having the worſt in both. With a Plot diſcovered at
+  <hi>Athigh.</hi>
+            </p>
+            <p>Sent into <hi>England</hi> by M<hi rend="sup">r</hi> 
+               <hi>Hierome,</hi> Miniſter
+  of Gods Word at <hi>Athigh</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Salomon Johnſon,</hi>
+  1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35902:2"/>
+            <!-- PDF PAGE 41 -->
+            <pb n="1" facs="tcp:35902:2"/>
+            <!-- PDF PAGE 41 -->
+            <head>TREASON IN <hi>IRELAND</hi> for the blowing up of the Kings
+  <hi>Engliſh Forces, with</hi> 100. Barrels of Gunpowder, with the names of
+  the chiefe Agents; and the manner <hi>of the Diſcovery. Decemb.</hi> 10. With
+  a Relation, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the ſpace of ſix miles from <hi>Dub<g ref="char:EOLhyphen"/>lin</hi> in
+  <hi>Ireland,</hi> there is a Town inha<g ref="char:EOLhyphen"/>bited with <hi>Iriſh,</hi> called
+  <hi>Rockoll,</hi> in which Town is no more <hi>Engliſh</hi> in<g ref="char:EOLhyphen"/>habited,
+  ſave onely two, <hi>William Clark,</hi> is the name of the one; the other is
+  a Wid<g ref="char:EOLhyphen"/>dow, both Inne-keepers in <hi>Rockoll.</hi>
+            </p>
+            <p>About a mile from the ſaid <hi>Rockoll,</hi> dwelleth one
+  <hi>Patricke Locke,</hi> at the foot of the hill called the hill
+  <hi>Rockall.</hi> The ſaid <hi>Patricke Locke</hi> is a great Papiſt, and a
+  man of great meanes in thoſe parts, having a very great eſtate, who had
+  vaulted his houſe round about: in which Vaults he hath kept foure ſeverall
+  Smiths, and Forges, working upon proviſion for warre, ever ſince the
+  firſt Treaty with the <hi>Engliſh</hi> 
+               <pb n="2" facs="tcp:35902:3"/>
+               <!-- PDF PAGE 42 -->and
+  <hi>Scots,</hi> that is for the ſpace of theſe two yeers.</p>
+            <p>He hath alſo ſince the firſt intent of riſing of the
+  Rebels in <hi>Ireland,</hi> he hath entertained foureſcore men, who by the
+  Rebels have been ſet on work, to vault the ſaid hill <hi>Rockoll</hi> round
+  about.</p>
+            <p>This Vault is ſo farre finiſhed, that there is en<g ref="char:EOLhyphen"/>tertained
+  in a Vault wherein they have undermined the hill great ſtore of Rebels; to
+  the number of about 500. as is credibly reported: whereof one hundred are
+  Popiſh Prieſts, Friers, and Jeſuites.</p>
+            <p>The paſſage over this hill is a great rode through which
+  they paſſe from <hi>Dublin</hi> to the chiefeſt part in the Countrey
+  towards <hi>Munſter,</hi> and other places where the Rebels for the moſt
+  part lie, and the Countrey is moſt oppreſſed: ſo that when the Kings
+  Majeſties Army had been come into <hi>Ireland</hi> from <hi>England,</hi> to
+  relieve the Proteſtants againſt the Rebels: this Hill was the direct and
+  readie Rode for them to paſſe over in the Vault whereof, which they had
+  digged for that purpoſe. They have been preparing powder in readineſſe as
+  they could plot it; expecting thereby to blow up the Hill there<g ref="char:EOLhyphen"/>with, when the
+  Army marched over it.</p>
+            <p>There was one of the Rebels called <hi>William Ra<g ref="char:EOLhyphen"/>ſter,</hi>
+  that was taken by Colonell <hi>Carot Topey,</hi> who diſcovered this plot,
+  and confeſſed that the ſaid Hill was all undermined, and that there was
+  100. barrels of powder in the Vault, and their purpoſe was, that if they
+  could take <hi>Athigh,</hi> and the Caſtle, they then knew that when the
+  Kings Forces came to <hi>Dublin,</hi> they would immediately move that way,
+  becauſe by that place they ſhould be much <pb n="3" facs="tcp:35902:3"/>
+               <!-- PDF PAGE 42 -->ſtrengthened:
+  and to come to them the way doth lie directly over the ſaid Hill Rickoll, and
+  with the ſaid powder in the Hill they had determined to blow them up as they
+  paſſed by.</p>
+            <p>And he diſcovered moreover that M. <hi>Ochaſhen</hi> of
+  <hi>Azabe</hi> in the Queens County, about 20. miles from <hi>Athigh,</hi> and
+  8. miles from the Fort of <hi>Leiſe,</hi> together with Sir <hi>Florence
+  Fitch-Patricke</hi> of Caſtle Town ſhould have come by night with 5000.
+  armed men to the Fort of <hi>Leiſe,</hi> and lie as Souldiers that were to
+  ward, the Papiſts within had agreed, and were appointed to let in a certain
+  Company of the Rebels appointed for that purpoſe to burn and bat<g ref="char:EOLhyphen"/>ter down the
+  Town.</p>
+            <p>Hereupon Captain <hi>Picket</hi> went forth to meet that Company
+  with 500. men, who fell upon them, and ſlew 3. or 400. of the Rebels; and the
+  reſt fled into the woods.</p>
+            <p>Himſelf ſuſtained the loſſe of 60. men, ſlain and
+  dangerouſly hurt.</p>
+            <p>The ſaid Rebels did rove extraordinarie up and down in
+  <hi>Ireland,</hi> on Thurſday the 3. of <hi>December,</hi> 1641. and did them
+  much hurt in divers places of the Countrey. They came to the Town of
+  <hi>Rockall</hi> ſpoken of before, on the ſame day. The Rebels had a paire
+  of Bag-pipes which played before them, as they marched which played exceeding
+  loud, which the Town hearing, roſe to meet them, and at the Towns end
+  ſaluted them, and made them great entertainment, and joyned themſelves with
+  them by an oath.</p>
+            <p>Afterwards they went to the aforeſaid <hi>Engliſh</hi> 
+               <pb n="4" facs="tcp:35902:4"/>
+               <!-- PDF PAGE 43 -->Inhabitants, <hi>William
+  Clark,</hi> and there they ſlew him, his wife, children, and family, 7.
+  perſons in number, of whom they left not one alive, but cru<g ref="char:EOLhyphen"/>elly murthered
+  them. From thence they marched to the <hi>Naſſey,</hi> that is about 5.
+  miles, a Town of <hi>Iriſh</hi> Inhabitants, alſo they did go to the
+  houſe of an <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> man, called <hi>Henry Orell,</hi> where they
+  ſlew his wife an ancient woman, and raviſhed her daughter in the moſt
+  barbarous manner that ever was known: and when they had done, pulled her limbs
+  aſunder, and mangled her body in pieces without pitie or Chriſtianity.</p>
+            <p>From thence they marched the next day towards <hi>Athigh,</hi>
+  which is 10. miles from the <hi>Naſsey,</hi> towards which place having
+  marched about a mile from the <hi>Naſſey</hi> aforeſaid, they came to the
+  Town of <hi>Puckin<g ref="char:EOLhyphen"/>gell,</hi> a Town inhabited of <hi>Engliſh,</hi> where
+  they fell upon the Inhabitants thereof, and ſlew them in a cruell manner,
+  without mercy, to the number of above 20. families, men, women, and children.
+  One woman above the reſt, they hanged at her own doore, with her children by
+  the haire of the head: and afterwards burnt up the whole town with fire.</p>
+            <p>Having made that place deſolate, they marched the next day
+  forward, as before, and having mar<g ref="char:EOLhyphen"/>ched ſome three miles further, they came
+  to an <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> mans houſe, where firſt they ſlew the man at
+  the doore, and afterwards they entred the houſe, where they found the woman
+  and her maide a brewing; for it was an Alehouſe, where they brew<g ref="char:EOLhyphen"/>ed their
+  owne drinke: The Maid they tooke and ra<g ref="char:EOLhyphen"/>viſhed, and when they had abuſed
+  her body, at their <pb n="5" facs="tcp:35902:4"/>
+               <!-- PDF PAGE 43 -->pleaſure,
+  they threw her into the boyling Caldron, or panne of wort, that was then over
+  the fire: and her Miſtris they ſlew, and cut off her head: and af<g ref="char:EOLhyphen"/>terwards
+  fired the houſe.</p>
+            <p>Then they went on toward the Towne of <hi>A<g ref="char:EOLhyphen"/>thigh,</hi> with an
+  intent to ſurprize the Towne and Caſtle; but God prevented their intentions
+  by one Maſter <hi>Carot Topey,</hi> an Engliſh Colonell under the States
+  there, appointed by the Lords, Iuſtices, and Counſell, over 500 foote, and
+  100 horſe, who with his Regiment fell upon them, and ſlew 300 of the
+  Rebells, and put the reſt to flight.</p>
+            <p>The moſt part of the Rebells that fled, ranne o<g ref="char:EOLhyphen"/>ver the
+  Bogges, and tooke the Woods.</p>
+            <p>This Regiment of Rebells, are about 2000 ſtrong. Their chiefe
+  Commanders are, 
+  <list>
+                  <item>
+                     <hi>Patricke Onell.</hi>
+                  </item>
+                  <item>
+                     <hi>Teage Okell.</hi>
+                  </item>
+                  <item>
+                     <hi>Charles Rowe.</hi>
+                  </item>
+                  <item>
+                     <hi>William Rafter,</hi> taken priſoner.</item>
+               </list>
+            </p>
+            <p>Colonell <hi>Topey</hi> loſt in this Skirmiſh fifty-five
+  men, that is, fifty foote, and five horſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:35902:5"/>
+            <!-- PDF PAGE 44 -->
+            <p> 
+               <figure>
+                  <head>A Deſcription of <hi>Athigh.</hi> Colonell
+<hi>Topey</hi> and his Company. The Rebells. The Fort.</head>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
